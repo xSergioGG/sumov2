@@ -1,0 +1,7 @@
+name: Sumo
+main: me.zsergio.sumo.Main
+version: 1.0
+author: zSergioh
+
+commands:
+  sumo:
